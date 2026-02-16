@@ -42,10 +42,12 @@ Business context - client brief review(goals and issues), stakeholders, constrai
 user stories and SWOT analysis
 
 Indepth Guide:
-business context:
+business context(Write a description of the business context):
 
 Empathy Map:
-For this you must write what the user will likely 'say', 'think', 'does' and 'feels'.
+For this you must write what the user will likely 'say', 'think', 'does' and 'feels'. How does user in essence react and
+how we can understand and empathesise with them.
+
 Example: 
   User 'says': I need more information before visting the zoo.
   User 'Thinks': I wish there was a website where I could see all the animals, it would be easy to decide if 
