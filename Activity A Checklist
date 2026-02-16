@@ -56,3 +56,7 @@ Example:
   User 'Feels': 'Overwhelmed', 'confused', 'stressed and annoyed because the que of the ticket.'
 
 USER STORIES:
+
+Table Structure:
+As a [user]...  |  so that...  |  Acceptable critera
+
