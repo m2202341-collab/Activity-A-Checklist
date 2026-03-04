@@ -75,4 +75,6 @@ all of the necessary info will be displayed in there such as how to get here, op
 On the top right corner there will be "book" button that will prompt page, it could be a ticker booking or a hotel booking.
 
 Analysis:
-
+I want... section is esentially saying what the user wants.
+So that... section is saying what he can do with that want.
+Acceptance criteria section is to ensure a criteria the user will 
