@@ -60,3 +60,11 @@ USER STORIES:
 Table Structure:
 As a [user]...  |  I want...  |  so that...  |  Acceptable critera
 
+example of the table:
+As a [user]... = First time customer
+As a [First time customer]
+
+I want... To visit a website and find some information on what the zoo is offering
+
+So that... I can compare it with other zoos and see why I chose this one, as well as that I would be able to see if
+there 
