@@ -67,4 +67,12 @@ As a [First time customer]
 I want... To visit a website and find some information on what the zoo is offering
 
 So that... I can compare it with other zoos and see why I chose this one, as well as that I would be able to see if
-there 
+there are animals that I am particularly interested in. I will not have to wait in the que for tickets, when I visit.
+
+Acceptance Criteria: The system should allow user to see the clear navigation bar at the top, in the main section there 
+should be a carousel in the main section that will prompt users to all the other sections. When user visits the about page,
+all of the necessary info will be displayed in there such as how to get here, opening times, animals, facilities, hotel info.
+On the top right corner there will be "book" button that will prompt page, it could be a ticker booking or a hotel booking.
+
+Analysis:
+
