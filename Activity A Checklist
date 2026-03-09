@@ -11,15 +11,16 @@ Guide:
 
   Add appendices
   
-  How are hardware and software are used in the sector
+  How are hardware and software are used in the sector(Hardware and software apps in the field)
   
-  Emerging technologies
+  Emerging technologies(Newer technology in the field)
   
-  How digital solutions meet user needs
+  How digital solutions meet user needs(Accessibilities to different users)
   
-  industry-specidic guidelines and regulations
+  industry-specific guidelines and regulations(Laws and regulation)
   
   additional relevant research
+
 
 Hardware and software
 What hardware is a standard in this industry?
@@ -41,24 +42,35 @@ How will these influence your solution?
 Business context - client brief review(goals and issues), stakeholders, constraints, empathy mapping, 
 user stories and SWOT analysis
 
-Indepth Guide:
+ENSURE A DESCRIPTION FOR EACH SECTION!
+
+In-depth Guide:
 BUSINESS CONTEXT(Write a description of the business context):
 
+
 EMPATHY MAP:
-For this you must write what the user will likely 'say', 'think', 'does' and 'feels'. How does user in essence react and
-how we can understand and empathesise with them.
+Write a description about why your using an empathy map.
+
+Write about key types of users(Examples of users: Residential Customers, commercial customers, Environment
+				Advocates, Tech Users, Government Officials, Service Providers, Employees, 
+				Partnership Companies, Managers and suppliers) and write a description for each.
+ 
+You must write what the user will likely 'say', 'think', 'does' and 'feels'. How does user in essence react and
+how we can understand and show empathy with them.
 
 Example: 
-  User 'says': I need more information before visting the zoo.
+  User 'says': I need more information before visiting the zoo.
   User 'Thinks': I wish there was a website where I could see all the animals, it would be easy to decide if 
                   I want to go this zoo.
   User 'Does': Comes to the zoo with very little awareness. Comes to visit, but the zoo is too full today.
   User 'Feels': 'Overwhelmed', 'confused', 'stressed and annoyed because the que of the ticket.'
 
+
 USER STORIES:
+Write a description of the user stories about why your using it and what you hope it meets.
 
 Table Structure:
-As a [user]...  |  I want...  |  so that...  |  Acceptable critera
+As a [user]...  |  I want...  |  so that...  |  Acceptable criteria
 
 example of the table:
 As a [user]... = First time customer
@@ -75,9 +87,143 @@ all of the necessary info will be displayed in there such as how to get here, op
 On the top right corner there will be "book" button that will prompt page, it could be a ticker booking or a hotel booking.
 
 Analysis:
-I want... section is esentially saying what the user wants.
+I want... section is essentially saying what the user wants.
 
 So that... section is saying what he can do with that want or why they want it.
 
 The acceptance criteria section describes the expected outcomes that must be met for the user’s problem 
 to be considered solved.
+
+PERSONAS:
+Write a description of users personas about why your using it and what you hope it meets.
+
+Write about two personas that writes about the bio, personality, their interests, influences, goals, needs and expectations, motivations and pain points and frustrations.
+
+FUNCTIONAL REQUIREMENTS:
+The functional requirements ensures what is going to be functional on each page or website in general.
+
+Example:
+Home page: The system should have  a home page that consists of the nav bar, main section and footer.
+
+Another example:
+User management
+	Users can create, update and delete accounts
+	Role-based access control for different user types(Homeowners, business, owners, service providers etc.)
+	Multi-factor authentication for enhanced security
+
+Consultation and installation scheduling:
+	Users can view available time slots and book consultations
+	Automated appointment reminders and rescheduling options
+	integration with service provider calendars for real-time availability
+
+Examples of functional requirements if stuck:
+User management
+Consultation and installation scheduling
+Carbon footprint energy tracking tools
+Green energy product information
+Accessibility features
+Data analytics and reporting
+Secure payment and subscription services
+collaboration tools
+integration with external systems
+Login system
+booking system
+
+NON-FUNCTIONAL REQUIREMENTS:
+The non-functional requirements ensures what is going to be non-functional on each page or website in general.
+
+Example:
+The Security should be secure and robust:
+	system must validate all data inputs
+	system must use secure cookies
+	system must use SHA256 Encryption for the passwords
+
+Another Example:
+Performance and scalability:
+	the platform must handle a high number of concurrent users without lag
+	cloud-based architecture to support scalability as user demand increases
+	load balancing to distribute traffic efficiently
+
+Security and data protection:
+	Compliance with data privacy regulation(GDPR, CCPA)
+	Encryption of sensitive user information and secure authentication methods
+	Regular security audits and vulnerabilities assessments
+
+maintainability and support
+	regular software updates to enhance features and security
+	customer support via chat, email and phone for user assistance
+	Comprehensive documentation for troubleshooting and user guidance
+
+
+Examples of non-functional requirements if stuck:
+performance and scalability
+security and data protection
+Usability and accessibility
+Reliability and availability
+integration capabilities
+maintainability and support
+
+
+DECOMPOSING THE PROBLEM THAT NEED TO BE SOLVED:
+Write a description of Decomposing the problem about why your using it and what you hope it meets.
+
+Optional But recommended:
+Create things like a decomposition diagram for each web page that is being planned to be made. (things like home page, about us, green energy products, dashboards page, carbon footprint, educational, accessibility features and staff registration page)
+
+Then break them down into smaller chunks of what is going to be included in it(eg navigation bar, FAQ section, etc).
+
+Alternatives:
+For each web page break down each component to its logical form such as (navigation bar for each page and other features like footer and opening times in the correct page.)
+
+KEY PERFORMANCE INDICATORS (KPI'S):
+Ensure a potential metric is found such as "performance speeds" then describe what this is and what it will be used for.
+
+Write down KPI name and the description of the KPI name.
+
+Example names for KPI's:
+Potentially break down the KPI's to two sections:
+Business KPI's that includes:
+Trustpilot reviews
+Visitor satisfaction rate
+the number of educational programs offered
+Percentage of repeat visitors
+revenue growth rate
+
+Website KPI's that includes:
+Page load time(Length the page loads)
+Bounce rate(The amount of users that visit a website then leaves immediately)
+Traffic by sources(Allows developers to see what devices are used by users)
+Conversion rate(How well the user and customers to complete a desired task)
+Average time on page(The average time user spends on the page)
+
+Other Example names for KPI's:
+User engagement and adoption metrics:
+	user registration rate
+	active users
+	Session duration
+	Feature utilisation rate
+
+Customer satisfaction and support:
+	Net Promoter Score(NPS)
+	Customer support response time
+	User feedback score
+
+Energy and sustainability impact:
+	Carbon footprint reduction per user
+	Energy savings rate
+	Renewable energy adoption rate
+
+Business and financial performance:
+	Consultation and installation conversion rate
+	Revenue growth from services
+	subscription retention rate
+	
+System performance and reliability
+	Platform uptime percentage
+	page load speed
+	bug resolution time
+
+Accessibility and inclusivity
+	Usage of accessibility features
+	Feedback from accessibility users
+	language preference adoption rate
